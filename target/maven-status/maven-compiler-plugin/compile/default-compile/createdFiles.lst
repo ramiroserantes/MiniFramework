@@ -1,0 +1,8 @@
+com\daarthy\mini\hibernate\AbstractMiniCrud.class
+com\daarthy\mini\constructors\MiniDataProcessor.class
+com\daarthy\mini\constructors\MiniData.class
+com\daarthy\mini\hibernate\MiniCrud.class
+com\daarthy\Main.class
+com\daarthy\mini\hibernate\mysql\MiniWeakCrud.class
+com\daarthy\mini\constructors\Cat.class
+com\daarthy\mini\hibernate\mysql\MiniStrongCrud.class
